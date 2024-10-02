@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Array_through_Recurrsion/Array_through_Recurrsion.iml" filepath="$PROJECT_DIR$/Recursion/Array_through_Recurrsion/Array_through_Recurrsion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysPractice/ArraysPractice.iml" filepath="$PROJECT_DIR$/ArraysPractice/ArraysPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/BackTracking/BackTracking.iml" filepath="$PROJECT_DIR$/Recursion/BackTracking/BackTracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryOperator/BinaryOperator.iml" filepath="$PROJECT_DIR$/BinaryOperator/BinaryOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bubble_Sort/Bubble_Sort.iml" filepath="$PROJECT_DIR$/Bubble_Sort/Bubble_Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_JAVA.iml" filepath="$PROJECT_DIR$/DSA_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Java/OOP_Java.iml" filepath="$PROJECT_DIR$/OOP_Java/OOP_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Pattern_recursion/Pattern_recursion.iml" filepath="$PROJECT_DIR$/Recursion/Pattern_recursion/Pattern_recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackQueue/StackQueue.iml" filepath="$PROJECT_DIR$/StackQueue/StackQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/String_Questions/String_Questions.iml" filepath="$PROJECT_DIR$/Recursion/String_Questions/String_Questions.iml" />
+    </modules>
+  </component>
+</project>
